@@ -19,7 +19,7 @@ back-end üçün:
 - GMAIL
 - GMAIL_PASSWORD
 
-Daha package.json faylındakı müvafiq əmrləri daxil edərək, prosesi başladın.
+daha sonra package.json faylındakı müvafiq əmrləri daxil edərək, prosesi başladın.
 
 Maraqlandığın üçün təşəkkürlər.
 
